@@ -24,11 +24,13 @@ h1 {
 }
 
 .character img {
-    width: 150px;  /* Adjust size as needed */
-    height: 150px;  /* Ensure height matches width for a circle */
-    border-radius: 50%;  /* Makes the image circular */
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;  /* Rounded square */
     border: 2px solid white;
 }
+
 
 .character-name {
     margin-top: 10px;
