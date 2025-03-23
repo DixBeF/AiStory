@@ -50,3 +50,18 @@ button {
 button:hover {
     background-color: #00b4d8;
 }
+
+.story-box {
+    background-color: #2e2e2e;  /* Dark but not pitch-black */
+    padding: 20px;
+    border-radius: 8px;
+    color: #f0f0f0;  /* Light text for dark background */
+    margin: 20px auto;
+    max-width: 800px;
+    line-height: 1.8;  /* Improve readability */
+    text-align: left;
+}
+
+.story-box p {
+    margin-bottom: 15px;
+}
