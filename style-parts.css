@@ -1,0 +1,52 @@
+body {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    margin-top: 20px;
+}
+
+.character-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.character {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.character img {
+    width: 150px;  /* Adjust size as needed */
+    height: 150px;  /* Ensure height matches width for a circle */
+    border-radius: 50%;  /* Makes the image circular */
+    border: 2px solid white;
+}
+
+.character-name {
+    margin-top: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+button {
+    background-color: #333;
+    border: 2px solid #00b4d8;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #00b4d8;
+}
