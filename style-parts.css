@@ -38,6 +38,22 @@ h1 {
     z-index: 2;
 }
 
+.character a img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 12px;
+    border: 2px solid white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: block;
+}
+
+.character a img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.4);
+    z-index: 2;
+}
+
 
 .character-name {
     margin-top: 10px;
