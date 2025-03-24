@@ -152,3 +152,20 @@ button:hover {
     transform: scale(1.05);
     box-shadow: 0 0 10px rgba(0, 180, 216, 0.5);
 }
+
+.title-box {
+    background-color: rgba(0, 0, 0, 0.65); /* semi-transparent dark background */
+    padding: 20px 30px;
+    margin: 30px auto;
+    max-width: 800px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 180, 216, 0.3);
+    text-align: center;
+}
+
+.title-box h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(0, 180, 216, 0.4);
+}
