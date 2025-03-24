@@ -1,4 +1,4 @@
-document.getElementById("story-box").innerHTML = `
+document.getElementById("story-text").innerHTML = `
 <p>The Boneways stretched on endlessly, a labyrinth of forgotten tunnels and crumbling passageways buried deep beneath Perdition Prime. As Kieran, Lira, and Jak moved cautiously through the gloom, the air grew colder, thick with the scent of rust and decay. The only sounds were the distant hum of ancient machinery and the quiet shuffle of their footsteps on the corroded metal floor.</p>
 
 <p>Kieran’s pulse pounded in his ears. They had managed to evade the Servitor for now, but he knew it wouldn’t stop hunting them. It never stopped.</p>

@@ -1,4 +1,4 @@
-document.getElementById("story-box").innerHTML = `
+document.getElementById("story-text").innerHTML = `
 <p>The echoes of heavy footfalls reverberated through the smog-filled alleys of the Rusted Sprawl as Kieran and Lira sprinted deeper into the city’s decaying underbelly. Behind them, the metallic shrieks and mechanical clanking of the Servitor filled the air, growing louder with each passing second. It wasn’t just chasing them—it was hunting them with cold, relentless efficiency.</p>
 
 <p>Lira darted through a narrow gap between two crumbling buildings, her cybernetic eyes glowing faintly in the dim light. Kieran followed, his breath coming in ragged gasps. Every step sent spikes of pain through his exhausted legs, but he didn’t dare stop. Not now. Not when death—or something worse—was so close behind.</p>
