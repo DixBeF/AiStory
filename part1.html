@@ -11,38 +11,32 @@
 
     <div class="character-container">
         <div class="character">
-            <a href="kieran.jpg" target="_blank">
-                <img src="kieran.jpg" alt="Kieran Voss">
-            </a>
+            <img src="kieran.jpg" alt="Kieran Voss" onclick="openLightbox(this)">
             <div class="character-name">Kieran Voss</div>
         </div>
         <div class="character">
-            <a href="lira.jpg" target="_blank">
-                <img src="lira.jpg" alt="Lira Kastra">
-            </a>
+            <img src="lira.jpg" alt="Lira Kastra" onclick="openLightbox(this)">
             <div class="character-name">Lira Kastra</div>
         </div>
         <div class="character">
-            <a href="orlan.jpg" target="_blank">
-                <img src="orlan.jpg" alt="Orlan Kett">
-            </a>
+            <img src="orlan.jpg" alt="Orlan Kett" onclick="openLightbox(this)">
             <div class="character-name">Orlan Kett</div>
         </div>
         <div class="character">
-            <a href="servitor.jpg" target="_blank">
-                <img src="servitor.jpg" alt="Servitor Drone">
-            </a>
+            <img src="servitor.jpg" alt="Servitor Drone" onclick="openLightbox(this)">
             <div class="character-name">Servitor Drone</div>
         </div>
         <div class="character">
-            <a href="enforcer.jpg" target="_blank">
-                <img src="enforcer.jpg" alt="Enforcer">
-            </a>
+            <img src="enforcer.jpg" alt="Enforcer" onclick="openLightbox(this)">
             <div class="character-name">Enforcer</div>
         </div>
     </div>
     
     
+    <div id="lightbox" class="lightbox">
+        <span class="close" onclick="closeLightbox()">&times;</span>
+        <img class="lightbox-content" id="lightbox-img" alt="Full-size character image">
+    </div>
 
     <div class="story-box">
         <p>
@@ -222,5 +216,7 @@
     
 
     <button onclick="location.href='index.html'">Back to Home</button>
+
+    <script src="lightbox.js"></script>
 </body>
 </html>
