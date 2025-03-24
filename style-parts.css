@@ -42,7 +42,6 @@ h1 {
     z-index: 2;
 }
 
-/* Lightbox styles */
 .lightbox {
     display: none;
     position: fixed;
@@ -110,7 +109,7 @@ button:hover {
 }
 
 .story-box {
-    background-color: rgba(30, 30, 30, 0.85); /* semi-transparent dark background */
+    background-color: rgba(30, 30, 30, 0.85);
     padding: 20px;
     border-radius: 8px;
     color: #f0f0f0;
@@ -125,4 +124,31 @@ button:hover {
 
 .story-box p {
     margin-bottom: 15px;
+}
+
+
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 40px 0;
+}
+
+.nav-btn {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 2px solid #00b4d8;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.nav-btn:hover {
+    background-color: #00b4d8;
+    color: black;
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 180, 216, 0.5);
 }
