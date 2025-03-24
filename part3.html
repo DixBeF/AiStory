@@ -4,36 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Part 3: The Architect’s Tower</title>
-    <link rel="stylesheet" href="style-parts.css">
+    <link rel="stylesheet" href="style-part3.css">
 </head>
 <body>
 
-    <div class="part-container">
+    <div class="title-box">
         <h1>Part 3: The Architect’s Tower</h1>
-
-        <!-- Character Bubbles -->
-        <div class="character-bubbles">
-            <div class="bubble">
-                <img src="kieran.jpg" alt="Kieran">
-                <p>Kieran</p>
-            </div>
-            <div class="bubble">
-                <img src="thearchitect.jpg" alt="The Architect">
-                <p>The Architect</p>
-            </div>
-            <div class="bubble">
-                <img src="dax.jpg" alt="Dax">
-                <p>Dax</p>
-            </div>
-        </div>
-
-        <!-- Story Content -->
-        <div class="story-content">
-            <p>[Insert Part 3 story text here]</p>
-        </div>
-
-        <a href="index.html" class="nav-btn">Back to Home</a>
     </div>
+
+    <div class="character-container">
+        <div class="character">
+            <img src="kieran.jpg" alt="Kieran Voss" onclick="openLightbox(this)">
+            <div class="character-name">Kieran Voss</div>
+        </div>
+        <div class="character">
+            <img src="lira.jpg" alt="Lira Kastra" onclick="openLightbox(this)">
+            <div class="character-name">Lira Kastra</div>
+        </div>
+        <div class="character">
+            <img src="jak.jpg" alt="Jak" onclick="openLightbox(this)">
+            <div class="character-name">Jak</div>
+        </div>
+        <div class="character">
+            <img src="servitor.jpg" alt="Servitor Drone" onclick="openLightbox(this)">
+            <div class="character-name">Servitor Drone</div>
+        </div>
+    </div>
+
+    <div class="nav-buttons">
+        <a href="part2.html" class="nav-btn">Previous</a>
+        <a href="index.html" class="nav-btn">Home</a>
+    </div>
+
+    <div id="lightbox" class="lightbox">
+        <span class="close" onclick="closeLightbox()">&times;</span>
+        <img class="lightbox-content" id="lightbox-img" alt="Full-size character image">
+    </div>
+
+    <div class="story-box" id="story-text"></div>
+
+    <div class="nav-buttons">
+        <a href="part2.html" class="nav-btn">Previous</a>
+        <a href="index.html" class="nav-btn">Home</a>
+    </div>
+
+    <script src="part3text.js"></script>
+    <script src="lightbox.js"></script>
 
 </body>
 </html>
