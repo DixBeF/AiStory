@@ -1,89 +1,98 @@
 document.getElementById("story-text").innerHTML = `
-  <p>A thick haze of smog clung to the streets of Perdition Prime, turning the neon signs overhead into little more than blurred ghosts of color. The air reeked of burning metal, of oil and sweat, of the slow rot of a city that had long since stopped pretending to care for those who lived in its lower depths. The towering factories belched out black smoke in steady intervals, choking the sky, sealing the district beneath a dome of perpetual dusk.</p>
+<p>Гъста пелена от смог обгръщаше улиците на Пердишън Прайм, превръщайки неоновите табели в размазани призрачни отблясъци. Въздухът миришеше на горящ метал, масло, пот и на бавната гнилост на един град, който отдавна бе спрял да се преструва, че му пука за хората в долните му нива. Извисяващите се фабрики издишваха черен дим на равни интервали, задушавайки небето и затваряйки квартала под купол от вечен здрач.</p>
 
-  <p>In the heart of the Rusted Sprawl, <strong>Kieran Voss</strong> moved like a hunted animal. His tattered longcoat was pulled tight against his body, his breath raspy from the toxic air. He hadn’t slept in days—not properly. His hands trembled, not from fear, but from whatever chemical exposure had settled into his bones over the years.</p>
+<p>В сърцето на Ръждивия Спроул, <strong>Киърън Вос</strong> се движеше като преследван звяр. Захлупеното му палто бе стегнато около тялото, дишането му — хрипливо от отровния въздух. Не бе спал от дни — не истински. Ръцете му трепереха — не от страх, а от химикалите, които с годините се бяха наслоили в костите му.</p>
 
-  <p><em>He knew they were close.</em></p>
+<p><em>Знаеше, че са близо.</em></p>
 
-  <p>The Enforcers had been combing the district all night. He’d seen the sweep teams moving through the alleyways, their steel-plated boots clanking against rusted walkways, their gas-masked faces expressionless as they scanned the filth for signs of their target.</p>
+<p>Енфорсърите претърсваха квартала цяла нощ. Беше видял как екипите обхождат уличките, ботушите им от стомана тропаха по ръждивите пътеки, а лицата им зад газовите маски — безизразни, докато претърсваха мръсотията в търсене на целта си.</p>
 
-  <p><strong>For him.</strong></p>
+<p><strong>Него.</strong></p>
 
-  <p>Kieran ducked into the shadows of a derelict maintenance corridor, pressing his back against a wall slick with condensation and grime. He exhaled slowly, forcing his pulse to settle.</p>
+<p>Киърън се мушна в сянката на изоставен сервизен коридор и се притисна към стена, мокра от конденз и мръсотия. Издиша бавно, насилвайки пулса си да се успокои.</p>
 
-  <p><em>I just need to find Lira.</em></p>
+<p><em>Просто трябва да намеря Лира.</em></p>
 
-  <p>She was his only chance of getting out of here alive. She knew the tunnels beneath Perdition Prime better than anyone. If anyone could get him past the enforcer patrols and into the Boneways, it was her. The problem was, she didn’t trust him. Not after what had happened the last time they crossed paths.</p>
+<p>Тя бе единственият му шанс да се измъкне жив. Познаваше тунелите под Пердишън Прайм по-добре от всеки. Ако някой можеше да го преведе през патрулите и до Боунуейс, това беше тя.</p>
 
-  <p>A deep mechanical hum echoed through the alley, and Kieran stilled. A patrol drone drifted past the entrance, its red scanner sweeping methodically through the smog. He held his breath, pressing himself deeper into the dark. The drone hesitated—then moved on.</p>
+<p>Проблемът беше, че тя не му вярваше. Не и след случилото се при последната им среща.</p>
 
-  <p><em>Not yet,</em> he thought. <em>Not yet, but soon.</em></p>
+<p>Дълбоко механично бръмчене отекна из уличката и Киърън замръзна. Патрулен дрон се плъзна покрай входа, червеният му скенер методично обхождаше смога. Киърън задържа дъх, притискайки се още по-дълбоко в тъмнината. Дронът се поколеба — после отмина.</p>
 
-  <p>He turned down another alley, slipping into the back entrance of a run-down bar called <strong>The Sulfur Pit</strong>. The place was dimly lit, its walls layered in years of cigarette smoke and industrial grime. The patrons were the usual mix of factory workers, scavengers, and black-market tech dealers—people who had given up trying to escape the city and instead carved out their own brand of existence in the filth.</p>
+<p><em>Още не,</em> помисли си. <em>Още не, но скоро.</em></p>
 
-  <p>At the far end of the room, behind a table littered with half-empty shot glasses and spent power cells, sat the person he was looking for. <strong>Lira Kastra</strong>.</p>
+<p>Свърна в друга уличка и влезе през задния вход на западнал бар, наречен <strong>Сярната яма</strong>. Мястото бе слабо осветено, а стените му — пропити с години цигарен дим и индустриална мръсотия. Клиентелата бе обичайната — фабрични работници, скитници, търговци на черен пазар — хора, отказали се да бягат и намерили свой начин да оцеляват в мръсотията.</p>
 
-  <p>She was hunched over a small holoscreen, its dim blue light reflecting off the dull cybernetic implants embedded beneath the skin of her temples. Her tangled black hair fell over one side of her face, half-hiding the faint orange glow of her failing ocular enhancements. Her patched-up industrial armor was layered with scavenged plating, a stark reminder that trust didn’t come easy in this part of the city.</p>
+<p>В дъното на помещението, зад маса, отрупана с полупразни шотове и изтощени енергийни клетки, седеше човекът, когото търсеше.</p>
 
-  <p>Across from her sat a broad-shouldered man in a stained miner’s jumpsuit, his face half-hidden behind a rebreather mask. <strong>Orlan Kett</strong>—one of the last remaining independent smugglers in the Sprawl. If Kieran had any hope of slipping through the cracks in the city’s surveillance, he needed both of them.</p>
+<p><strong>Лира Кастра.</strong></p>
 
-  <p>Lira looked up as he approached, her glowing eyes narrowing. “No.”</p>
+<p>Тя беше прегърбена над малък холографски екран, чието синкаво сияние се отразяваше по вградените ѝ в слепоочията киберимпланти. Заплетената ѝ черна коса закриваше половината ѝ лице, едва скривайки оранжевия отблясък на увредените ѝ очни подобрения. Промишлената ѝ броня бе нашита с различни плочи, спомняща, че доверието тук не е нещо евтино.</p>
 
-  <p>Kieran hesitated. “I haven’t said anything yet.”</p>
+<p>Срещу нея седеше широкоплещест мъж в зацапан миньорски гащеризон, лицето му — наполовина скрито зад респираторна маска. <strong>Орлан Кет</strong> — един от последните независими контрабандисти в Спроула. Ако Киърън искаше да се изплъзне от системата за наблюдение, му трябваха и двамата.</p>
 
-  <p>She leaned back in her chair, exhaling through her teeth. “You don’t have to. You’re desperate, you need my help, and whatever mess you’re tangled in is going to put a price on my head. So no.”</p>
+<p>Лира вдигна поглед, очите ѝ се присвиха. “Не.”</p>
 
-  <p>Orlan chuckled, his voice distorted through the rebreather. “She’s got you figured out, Voss.”</p>
+<p>Киърън се поколеба. “Още нищо не съм казал.”</p>
 
-  <p>Kieran pulled up a chair, ignoring the discomfort of their stares. “Listen. I don’t have time to argue. The enforcers are out for blood, and I have something they don’t want getting out.”</p>
+<p>Тя се облегна назад и въздъхна. “Няма нужда. Отчаян си, търсиш помощ, а проблемът, в който си се забъркал, ще сложи награда и на моята глава. Така че — не.”</p>
 
-  <p>Lira sighed, rubbing her temples. “What did you do?”</p>
+<p>Орлан се изсмя през маската. “Разчела те е, Вос.”</p>
 
-  <p>“I found something in the system,” Kieran said, lowering his voice. “Buried in the archives. It’s proof that—”</p>
+<p>Киърън седна без да отвръща на погледите. “Слушай. Нямаме време да спорим. Енфорсърите са по петите ми, а аз имам нещо, което не искат да излезе наяве.”</p>
 
-  <p>The front door of the bar slammed open.</p>
+<p>Лира въздъхна. “Какво направи?”</p>
 
-  <p>The murmur of conversation died instantly.</p>
+<p>“Намерих нещо в системата,” прошепна Киърън. “Погребано дълбоко в архивите. Доказателство, че—”</p>
 
-  <p>Three figures stepped inside, their heavy footfalls echoing against the steel floor. Two enforcers in matte-black combat gear flanked a taller figure clad in something far more unsettling—a <strong>Servitor of the Architect</strong>.</p>
+<p>Предната врата на бара се разтвори с трясък.</p>
 
-  <p>The enforcers wore standard-issue gas helmets with glowing visors, their rifles held loosely but ready. But the Servitor…</p>
+<p>Разговорите замлъкнаха.</p>
 
-  <p>Its body was humanoid but wrong, as though someone had taken a factory worker and stretched them too thin, reinforcing their limbs with exposed hydraulic pistons. Its face was obscured behind a mask of cold, polished metal, smooth and featureless save for a single glowing red slit where eyes should have been. Its arms twitched unnaturally as it scanned the room, searching.</p>
+<p>Трима влязоха вътре. Двама енфорсъри в черни брони придружаваха нещо по-високо и далеч по-зловещо — <strong>Сървитор на Архитекта</strong>.</p>
 
-  <p><strong>Kieran’s blood ran cold.</strong></p>
+<p>Енфорсърите носеха стандартни каски и пушки в готовност. Но Сървитора…</p>
 
-  <p>The Architect’s Servitors were not like the enforcers. They didn’t arrest people. They didn’t issue warnings. <strong>They erased problems.</strong></p>
+<p>Тялото му приличаше на човешко, но нещо в него бе сбъркано — сякаш някой бе взел работник и го бе разтегнал, подсилвайки крайниците с хидравлични цилиндри. Лицето му бе скрито зад гладка метална маска с червен процеп. Ръцете му потрепваха, докато сканираше.</p>
 
-  <p>Lira cursed under her breath. “You led them here.”</p>
+<p><strong>Киърън се вкочани от страх.</strong></p>
 
-  <p>“No, they—” Kieran stopped. <em>They hadn’t been following him.</em><br><em>They had been following the same trail he had.</em></p>
+<p>Сървиторите не арестуват. Те не говорят.</p>
 
-  <p>Lira was already moving. She grabbed Kieran’s sleeve and yanked him toward the bar’s back exit. “<strong>Orlan, stall them.</strong>”</p>
+<p><strong>Те заличават.</strong></p>
 
-  <p>Orlan scoffed but rose from his chair, moving between them and the enforcers. “Hey now, gentlemen. You know you’re in the wrong part of town for this kind of trouble. Why don’t I buy you a drink instead?”</p>
+<p>Лира изруга тихо. “Ти ги доведе тук.”</p>
 
-  <p>The closest enforcer raised his rifle. “Step aside, Kett.”</p>
+<p>“Не, те—” Киърън спря. <em>Не са го следвали.</em><br>
+<em>Следвали са същата следа, по която е вървял той.</em></p>
 
-  <p>“Or what?” Orlan tilted his head. “You’ll put a hole in me in front of all these fine people?”</p>
+<p>Лира вече беше в движение. Дръпна Киърън за ръкава и го поведе към задния изход. “<strong>Орлан, задръж ги.</strong>”</p>
 
-  <p>The Servitor turned its head slightly. Then, it moved.</p>
+<p>Орлан въздъхна, но се изправи между тях и енфорсърите.  
+“Хей, господа. Знаете, че не сте в правилната част на града за подобни проблеми. Какво ще кажете да ви почерпя по едно?”</p>
 
-  <p>It didn’t walk. <em>It glided</em>, its body unnaturally smooth in its motion, covering the distance between them in seconds. Before Orlan could react, a metal hand seized his throat, lifting him off the ground like he weighed nothing. The room erupted in chaos.</p>
+<p>Най-близкият енфорсър насочи пушката си. “Мръдни се, Кет.”</p>
 
-  <p>Lira shoved Kieran forward. “<strong>Move!</strong>”</p>
+<p>“Иначе какво?” — Орлан наклони глава. “Ще ме застреляш пред всичките тези хора?”</p>
 
-  <p>They crashed through the back door and into the maze of alleyways behind the bar. Gunfire erupted behind them.</p>
+<p>Сървитора наклони глава. После се раздвижи.</p>
 
-  <p>Kieran stumbled but kept moving. His lungs burned from the exertion and the poisoned air, but he couldn’t afford to stop.</p>
+<p>Не ходеше. <em>Плъзгаше се</em> — движението му бе неестествено гладко, преодолявайки разстоянието между тях за секунди. Преди Орлан да успее да реагира, метална ръка се стовари върху гърлото му и го вдигна във въздуха, сякаш не тежеше нищо. Помещението потъна в хаос.</p>
 
-  <p>“Where are we going?” he managed.</p>
+<p>Лира блъсна Киърън напред. “<strong>Движи се!</strong>”</p>
 
-  <p>Lira was already ahead of him, weaving through the tight gaps between rusted buildings. “There’s an access hatch a few blocks from here. Leads down to the <strong>Boneways</strong>.”</p>
+<p>Изхвърчаха през задната врата и се озоваха в лабиринта от улички зад бара. Зад тях отекнаха изстрели.</p>
 
-  <p>Kieran swallowed hard. He had been hoping to reach the tunnels eventually—<em>but not like this</em>.</p>
+<p>Киърън се препъна, но продължи. Белите му дробове горяха от напрежението и отровния въздух, но не можеше да спре.</p>
 
-  <p>A metallic shriek echoed from behind them, followed by the unmistakable sound of hydraulic limbs slamming against metal.</p>
+<p>“Накъде?” извика той задъхан.</p>
 
-  <p><strong>The Servitor was still coming.</strong><br><strong>And it was gaining on them.</strong></p>
+<p>Лира вече бе напред, провирайки се между ръждясали сгради. “Има люк на няколко пресечки. Води към <strong>Боунуейс</strong>.”</p>
+
+<p>Киърън преглътна трудно. Надяваше се да стигнат до тунелите — <em>но не по този начин</em>.</p>
+
+<p>Металически писък отекна зад тях, последван от звука на хидравлични крайници, блъскащи се в метал.</p>
+
+<p><strong>Сървитора все още ги следваше.</strong><br>
+<strong>И наближаваше.</strong></p>
 `;

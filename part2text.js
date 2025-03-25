@@ -1,99 +1,99 @@
 document.getElementById("story-text").innerHTML = `
-<p>The echoes of heavy footfalls reverberated through the smog-filled alleys of the Rusted Sprawl as Kieran and Lira sprinted deeper into the city’s decaying underbelly. Behind them, the metallic shrieks and mechanical clanking of the Servitor filled the air, growing louder with each passing second. It wasn’t just chasing them—it was hunting them with cold, relentless efficiency.</p>
+<p>Ехото от тежки стъпки отекваше в задимените улички на Ръждивия Спроул, докато Киърън и Лира тичаха все по-дълбоко в разлагащите се недра на града. Зад тях се разнасяха металически писъци и механично тракане на Сървитора, които се усилваха с всяка изминала секунда. Не ги просто гонеше — преследваше ги с хладна, безпощадна ефективност.</p>
 
-<p>Lira darted through a narrow gap between two crumbling buildings, her cybernetic eyes glowing faintly in the dim light. Kieran followed, his breath coming in ragged gasps. Every step sent spikes of pain through his exhausted legs, but he didn’t dare stop. Not now. Not when death—or something worse—was so close behind.</p>
+<p>Лира се провря през тясна пролука между две рушащи се сгради, кибернетичните ѝ очи светеха слабо в мрака. Киърън я следваше, дишайки на пресекулки. Всяка стъпка бе агония за изморените му крака, но не смееше да спре. Не сега. Не когато смъртта — или нещо по-лошо — беше толкова близо.</p>
 
-<p>“Where’s the hatch?” he managed to choke out, his voice barely audible over the pounding of his heart.</p>
+<p>„Къде е люкът?“ изрече той пресипнало, гласът му почти не се чуваше от тътена на сърцето му.</p>
 
-<p>“Two more blocks!” Lira shouted back, not breaking her stride.</p>
+<p>„Още два блока!“ — извика Лира, без да спира.</p>
 
-<p>Ahead, the alley opened into a wide, dilapidated square. The flickering remnants of an old holo-advertisement cast ghostly blue light across the rusted metal ground. A group of scavengers huddled near a burned-out transport, their faces hidden beneath makeshift respirators. They watched with weary disinterest as Kieran and Lira barreled past, too accustomed to violence and desperation to be surprised.</p>
+<p>Напред уличката се отваряше към широка, разрушена площадка. Трептящите останки от стара холографска реклама хвърляха призрачно синкаво сияние върху ръждивата метална настилка. Група скитници се беше сгушила до изгорял транспорт, лицата им скрити зад импровизирани респиратори. Те наблюдаваха Киърън и Лира, които профучаваха покрай тях — твърде свикнали с насилието и отчаянието, за да се впечатлят.</p>
 
-<p>But the calm didn’t last.</p>
+<p>Но спокойствието не трая дълго.</p>
 
-<p>A deafening metallic screech split the air as the Servitor burst into the square, its elongated limbs twitching unnaturally as it scanned the area. The scavengers scattered, vanishing into the shadows like rats fleeing a sinking ship.</p>
+<p>Оглушителен металически писък разсече въздуха, когато Сървитора нахлу на площада, удължените му крайници потрепваха неестествено, докато сканираше зоната. Скитниците се разпръснаха, потъвайки в сенките като плъхове от потъващ кораб.</p>
 
-<p>Lira grabbed Kieran’s arm and yanked him toward a rusted maintenance ladder bolted to the side of an old factory wall. “Climb!”</p>
+<p>Лира сграбчи Киърън за ръката и го поведе към ръждясала сервизна стълба, прикрепена към фабрична стена. „Катери се!“</p>
 
-<p>Kieran didn’t need to be told twice. He scrambled up the ladder, his boots slipping on the slick metal as he hauled himself upward. Below, the Servitor tilted its head, its glowing red visor locking onto them with unsettling precision.</p>
+<p>Киърън не се нуждаеше от повторение. Започна да се изкачва, обувките му се пързаляха по влажния метал, докато се влачеше нагоре. Долу, Сървитора наклони глава, а червеният му визьор се фиксира върху тях с тревожна точност.</p>
 
-<p>As Kieran reached the top, Lira swung herself onto the rooftop beside him and immediately dropped to one knee, pulling a small, crudely modified energy pistol from her belt.</p>
+<p>Щом стигна горе, Лира се претърколи на покрива до него и моментално приклекна, изваждайки грубо модифициран енергиен пистолет от колана си.</p>
 
-<p>“Go!” she hissed, gesturing toward the far side of the rooftop.</p>
+<p>„Върви!“ — прошепна тя, сочейки към далечния край на покрива.</p>
 
-<p>“What about you?”</p>
+<p>„А ти?“</p>
 
-<p>“I’ll slow it down. Just get to the hatch!”</p>
+<p>„Ще го забавя. Просто стигни до люка!“</p>
 
-<p>Kieran hesitated for a fraction of a second, torn between the instinct to run and the guilt of leaving her behind. But he knew she was right. If they both stayed, they were dead.</p>
+<p>Киърън се поколеба за частица от секундата — разкъсан между инстинкта да бяга и вината да я остави. Но знаеше, че е права. Ако останат и двамата — ще умрат.</p>
 
-<p>He turned and sprinted across the rooftop, the rusted metal groaning beneath his feet. Behind him, he heard the sharp crack of Lira’s pistol as she opened fire.</p>
+<p>Обърна се и хукна по покрива, ръждивият метал стенеше под краката му. Зад него отекна острият пукот на пистолета на Лира.</p>
 
-<p>The Servitor didn’t flinch. It moved with terrifying speed, scaling the wall with its clawed mechanical hands as though gravity were little more than a suggestion.</p>
+<p>Сървитора не трепна. Движеше се ужасяващо бързо, изкачвайки стената с механичните си нокти, сякаш гравитацията не съществуваше.</p>
 
-<p>Lira cursed and fired again, aiming for the exposed hydraulics in its legs. Sparks flew as one of the shots connected, but the damage was minimal. The Servitor’s movements faltered for less than a second before it continued its ascent, its red visor glowing brighter, as though in anger.</p>
+<p>Лира изруга и стреля отново, прицелвайки се в откритата хидравлика на краката му. Искри изригнаха, когато единият изстрел уцели, но щетите бяха минимални. Движението на Сървитора се забави за части от секундата, но той продължи изкачването си, визьорът му светеше по-ярко — сякаш от гняв.</p>
 
-<p>Kieran reached the edge of the rooftop and dropped down onto a lower platform, landing hard on his side. Pain shot through his ribs, but he forced himself to his feet and kept moving. Below, he could see the hatch—an old maintenance access point leading down into the Boneways, the network of abandoned tunnels and service corridors that crisscrossed beneath Perdition Prime.</p>
+<p>Киърън стигна ръба на покрива и скочи върху по-ниска платформа, приземявайки се тежко настрани. Болка прониза ребрата му, но се изправи и продължи напред. Долу зърна люка — стар сервизен отвор, водещ към Боунуейс, мрежа от изоставени тунели и обслужващи коридори под Пердишън Прайм.</p>
 
-<p>Lira landed beside him a moment later, her breathing ragged but steady. “Come on!”</p>
+<p>Лира се приземи до него секунда по-късно, дишането ѝ тежко, но ритмично. „Хайде!“</p>
 
-<p>They sprinted toward the hatch, their boots clanging against the metal platform. Kieran reached it first, yanking open the rusted cover with a grunt of effort.</p>
+<p>Затичаха се към люка, ботушите им отекваха по металната повърхност. Киърън стигна пръв и с усилие отвори ръждясалия капак.</p>
 
-<p>“You first,” Lira said, glancing back over her shoulder. The Servitor was already on the rooftop above them, its head twitching as it calculated its next move.</p>
+<p>„Ти първи,“ — каза Лира, обръщайки се назад. Сървитора вече беше на покрива над тях, главата му потрепваше, изчислявайки следващия ход.</p>
 
-<p>Kieran didn’t argue. He dropped into the hatch, sliding down a corroded metal ladder and landing in the dimly lit tunnel below. The air down here was colder, thicker, filled with the acrid scent of old machinery and stagnant water.</p>
+<p>Киърън не възрази. Спусна се в люка, плъзгайки се по корозирала метална стълба и се озова в слабо осветен тунел. Въздухът тук бе по-студен, гъст, пропит с миризма на старо машинно масло и застояла вода.</p>
 
-<p>A moment later, Lira landed beside him, pulling the hatch shut behind her. She jammed a length of metal pipe into the locking mechanism, bracing it against the frame.</p>
+<p>Миг по-късно Лира скочи при него и затвори люка зад себе си. Натъпка късо метално парче в заключващия механизъм, заклинявайки го.</p>
 
-<p>“That won’t hold it for long,” she said, wiping sweat and grime from her face.</p>
+<p>„Няма да го задържи дълго,“ каза тя, избърсвайки пот и мръсотия от лицето си.</p>
 
-<p>“It doesn’t have to,” Kieran replied. “We just need a head start.”</p>
+<p>„Не трябва,“ отговори Киърън. „Трябва ни само малка преднина.“</p>
 
-<p>Lira gave him a grim nod, and they set off down the tunnel, their footsteps echoing in the dark.</p>
+<p>Лира кимна мрачно и тръгнаха по тунела, стъпките им ехтяха в тъмнината.</p>
 
-<p>The Boneways were a labyrinth—an endless maze of crumbling infrastructure, forgotten by the city above. Old maintenance bots lay rusting in the corners, their power cells long since depleted. Broken conduits and tangled wiring hung from the ceiling like mechanical vines.</p>
+<p>Боунуейс беше лабиринт — безкраен пъзел от рушаща се инфраструктура, забравен от града горе. Стари сервизни дронове ръждясваха в ъглите, енергийните им клетки отдавна изтощени. Счупени тръби и кабели висяха от тавана като механични лиани.</p>
 
-<p>As they moved deeper, the sound of their pursuer grew fainter, though Kieran knew better than to believe they were safe. The Servitor wasn’t the only danger down here.</p>
+<p>Колкото по-дълбоко навлизаха, толкова по-слабо се чуваше преследвачът им — но Киърън знаеше по-добре от това да си мисли, че са в безопасност. Сървитора не беше единствената опасност тук.</p>
 
-<p>After several minutes of walking in tense silence, they reached a junction where several tunnels converged. A rusted sign hung crookedly on the wall, its faded lettering barely legible: <em>Sector C-7 Access Point.</em></p>
+<p>След няколко минути в напрегнато мълчание, стигнаха разклонение, където няколко тунела се събираха. Ръждясала табела висеше накриво на стената, с едва четлив надпис: <em>Достъп до Сектор C-7</em>.</p>
 
-<p>“We should rest here for a minute,” Lira said, leaning against the wall.</p>
+<p>„Трябва да починем за минута,“ каза Лира, облегната на стената.</p>
 
-<p>Kieran nodded, collapsing onto a nearby crate. His legs felt like lead, and his lungs burned from the effort of running through the toxic air.</p>
+<p>Киърън кимна и се свлече върху близко сандъче. Краката му тежаха като олово, дробовете му горяха от бягането.</p>
 
-<p>“We need a plan,” Lira said, her voice low. “The Boneways might keep us hidden for a while, but it’s only a matter of time before that thing finds another way down here.”</p>
+<p>„Имаме нужда от план,“ прошепна Лира. „Боунуейс може и да ни скрие временно, но е въпрос на време онова нещо да намери друг път насам.“</p>
 
-<p>Kieran rubbed his temples, trying to think through the haze of exhaustion. “There’s a data hub in Sector E-12,” he said after a moment. “If I can get access, I might be able to disable the Servitor remotely—or at least slow it down.”</p>
+<p>Киърън разтри слепоочията си, борейки се с изтощението. „Има хъб в Сектор E-12,“ каза след миг. „Ако стигна до него, може да успея да деактивирам Сървитора дистанционно — или поне да го забавя.“</p>
 
-<p>Lira raised an eyebrow. “And how exactly do you plan to do that?”</p>
+<p>Лира повдигна вежда. „И как точно ще го направиш?“</p>
 
-<p>Kieran hesitated. He hadn’t told her everything. Not yet.</p>
+<p>Киърън се поколеба. Не ѝ беше казал всичко. Още не.</p>
 
-<p>Before he could answer, a low rumble echoed through the tunnel, followed by the sound of approaching footsteps. But these weren’t the heavy, mechanical footfalls of the Servitor.</p>
+<p>Преди да отговори, нисък тътен премина през тунела, последван от приближаващи се стъпки. Но не бяха тежките, механични стъпки на Сървитора.</p>
 
-<p>They were lighter. Quicker.</p>
+<p>Бяха по-леки. По-бързи.</p>
 
-<p>Lira drew her pistol, her eyes narrowing. “We’re not alone.”</p>
+<p>Лира извади пистолета си, очите ѝ се присвиха. „Не сме сами.“</p>
 
-<p>A figure emerged from the shadows—a young boy, no more than twelve, with messy blond hair and wide, fearful eyes. His clothes were torn and filthy, and he clutched a small, battered datapad to his chest like it was the most precious thing in the world.</p>
+<p>Фигура излезе от сенките — малко момче, не по-голямо от 12, с разрошена руса коса и разширени от страх очи. Дрехите му бяха скъсани и мръсни, а в ръцете си стискаше износен датапад, сякаш бе най-ценното му притежание.</p>
 
-<p>“Don’t shoot!” he cried, holding up his hands. “Please, I—I’m not here to hurt you!”</p>
+<p>„Не стреляйте!“ извика той, вдигайки ръце. „Моля ви, не искам да ви нараня!“</p>
 
-<p>Kieran exchanged a glance with Lira, then stepped forward cautiously. “Who are you?”</p>
+<p>Киърън погледна Лира, после пристъпи внимателно напред. „Кой си ти?“</p>
 
-<p>“My name’s Jak,” the boy said, his voice trembling. “I’ve been hiding down here ever since the enforcers came to my sector. They… they killed everyone.”</p>
+<p>„Казвам се Джак,“ отвърна момчето, гласът му трепереше. „Крия се тук долу, откакто енфорсърите дойдоха в сектора ми. Те… убиха всички.“</p>
 
-<p>Lira’s expression softened slightly, but she kept her weapon raised. “Why are you following us?”</p>
+<p>Изражението на Лира омекна леко, но оръжието ѝ остана вдигнато. „Защо ни следиш?“</p>
 
-<p>“I saw you drop down from the hatch,” Jak said. “I thought maybe… maybe you could help me.”</p>
+<p>„Видях ви да слизате през люка,“ каза Джак. „Помислих си, че може… може би ще ми помогнете.“</p>
 
-<p>Kieran sighed. Another complication. But they couldn’t just leave the kid here.</p>
+<p>Киърън въздъхна. Още едно усложнение. Но не можеха да го оставят тук.</p>
 
-<p>“Alright, Jak,” he said. “You can come with us. But you need to stay quiet and do exactly as we say. Understand?”</p>
+<p>„Добре, Джак,“ каза той. „Можеш да дойдеш с нас. Но трябва да си тих и да правиш точно каквото ти кажем. Разбра ли?“</p>
 
-<p>Jak nodded quickly. “Yes, sir.”</p>
+<p>Джак кимна бързо. „Да, господине.“</p>
 
-<p>Lira lowered her pistol with a sigh. “Great. More dead weight.”</p>
+<p>Лира въздъхна и свали пистолета. „Прекрасно. Още един товар за мъкнене.“</p>
 
-<p>They set off down the tunnel again, this time with Jak in tow. Kieran just hoped they’d reach the data hub before the Servitor caught up with them—or before something even worse found them first.</p>
+<p>Тръгнаха отново по тунела, този път с Джак след тях. Киърън само се надяваше да стигнат до хъба преди Сървитора — или преди нещо още по-лошо да ги открие.</p>
 `;

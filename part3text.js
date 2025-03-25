@@ -1,107 +1,107 @@
 document.getElementById("story-text").innerHTML = `
-<p>The Boneways stretched on endlessly, a labyrinth of forgotten tunnels and crumbling passageways buried deep beneath Perdition Prime. As Kieran, Lira, and Jak moved cautiously through the gloom, the air grew colder, thick with the scent of rust and decay. The only sounds were the distant hum of ancient machinery and the quiet shuffle of their footsteps on the corroded metal floor.</p>
+<p>Боунуейс се проточваше безкрайно — лабиринт от забравени тунели и разпадащи се коридори, заровени дълбоко под Пердишън Прайм. Докато Киърън, Лира и Джак се движеха предпазливо в полумрака, въздухът ставаше все по-студен, наситен с мирис на ръжда и разложение. Единствените звуци бяха далечният бръм на древни машини и тихото шляпане на стъпките им по корозиралия метален под.</p>
 
-<p>Kieran’s pulse pounded in his ears. They had managed to evade the Servitor for now, but he knew it wouldn’t stop hunting them. It never stopped.</p>
+<p>Пулсът на Киърън биеше в ушите му. Засега бяха успели да се изплъзнат на Сървитора, но той знаеше, че няма да се откаже. Никога не се отказваше.</p>
 
-<p>“How much farther?” Lira asked, her voice barely more than a whisper.</p>
+<p>„Колко още?“ прошепна Лира.</p>
 
-<p>“Not far,” Kieran replied, glancing at the cracked datapad he had pulled from his coat. The map of the Boneways flickered uncertainly, but the blinking dot indicating their destination—the old data hub in Sector E-12—was growing closer. “Maybe another half-mile.”</p>
+<p>„Не е далеч,“ отвърна Киърън, хвърляйки поглед към напуканото датапад устройство, което беше извадил от палтото си. Картата на Боунуейс премигваше несигурно, но мигащата точка, обозначаваща крайната им цел — старият информационен хъб в Сектор Е-12 — се приближаваше. „Може би още половин миля.“</p>
 
-<p>Lira nodded, her cybernetic eyes scanning the shadows for any sign of movement. Jak trudged along beside her, his small frame tense with fear. He hadn’t said much since they found him, but Kieran could see the questions simmering beneath the surface.</p>
+<p>Лира кимна, а кибернетичните ѝ очи претърсваха сенките за признаци на движение. Джак се влачеше до нея, малкото му тяло стегнато от страх. Не беше казал много, откакто го намериха, но Киърън можеше да види въпросите, които клокочеха под повърхността.</p>
 
-<p>“Are we going to die down here?” Jak asked suddenly, his voice breaking the uneasy silence.</p>
+<p>„Ще умрем ли тук долу?“ изведнъж попита Джак, нарушавайки напрегнатото мълчание.</p>
 
-<p>Lira shot Kieran a look, as if to say, Well, you’re the scientist. You handle this one.</p>
+<p>Лира погледна Киърън, сякаш казваше: Ти си ученият — справяй се.</p>
 
-<p>Kieran sighed. “Not if we stick to the plan,” he said. “Once we reach the data hub, I’ll access the central network and send out a pulse to disable the Servitor’s tracking systems. After that, we can make our way back to the surface.”</p>
+<p>Киърън въздъхна. „Не, ако се придържаме към плана,“ каза той. „Когато стигнем хъба, ще имам достъп до централната мрежа и ще изпратя импулс, който да блокира системите за проследяване на Сървитора. След това ще можем да се върнем на повърхността.“</p>
 
-<p>“And then what?” Jak pressed. “The enforcers will still be up there. The Architect will still be looking for you.”</p>
+<p>„А после?“ настоя Джак. „Енфорсърите още ще са горе. Архитектът все още ще те търси.“</p>
 
-<p>Kieran didn’t have an answer to that. The truth was, he hadn’t thought that far ahead. One crisis at a time.</p>
+<p>Киърън нямаше отговор. Истината беше, че не беше мислил толкова напред. Една криза наведнъж.</p>
 
-<p>“We’ll figure it out,” Lira said, giving Jak a reassuring pat on the shoulder. “We always do.”</p>
+<p>„Ще го измислим,“ каза Лира, като потупа Джак по рамото окуражително. „Винаги измисляме нещо.“</p>
 
-<p>Jak didn’t look convinced, but he fell silent and kept walking.</p>
+<p>Джак не изглеждаше убеден, но замълча и продължи да върви.</p>
 
-<p>They reached the data hub a short time later—a massive, rusted doorway set into the side of the tunnel. The words <em>Central Access Node – Sector E-12</em> were barely visible beneath layers of grime and corrosion. Kieran pulled a multitool from his belt and began working on the locking mechanism, his fingers trembling slightly.</p>
+<p>Стигнаха хъба малко по-късно — масивна ръждясала врата, вградена в стената на тунела. Надписът <em>Централен достъп – Сектор Е-12</em> едва се четеше под слоевете мръсотия и корозия. Киърън извади мултиинструмент от колана си и започна да работи по заключващия механизъм, пръстите му леко трепереха.</p>
 
-<p>“Hurry up,” Lira muttered, glancing nervously back down the tunnel.</p>
+<p>„По-бързо,“ промърмори Лира, оглеждайки се нервно назад по тунела.</p>
 
-<p>“I’m trying,” Kieran said through gritted teeth. The lock was old, but it had been designed to withstand tampering. After what felt like an eternity, there was a soft click, and the door creaked open, revealing a dimly lit chamber beyond.</p>
+<p>„Опитвам се,“ изсъска Киърън. Заключалката беше стара, но проектирана да издържи на манипулации. След това, което му се стори като цяла вечност, се чу меко щракване и вратата изскърца, разкривайки слабо осветена зала отвъд.</p>
 
-<p>They slipped inside, and Kieran sealed the door behind them, jamming another piece of metal into the locking mechanism for good measure.</p>
+<p>Те влязоха вътре, а Киърън затвори вратата след тях, подпирайки я с друго парче метал за всеки случай.</p>
 
-<p>The data hub was a relic of a bygone era, a cavernous space filled with rows of towering server banks and flickering holo-screens. Thick cables snaked across the floor, connecting ancient consoles to power sources that shouldn’t have been functional anymore—but somehow still were. The air was heavy with the hum of electricity and the faint, acrid smell of burning circuits.</p>
+<p>Информационният хъб бе реликва от отдавна отминала епоха — просторна зала, пълна с редици от високи сървърни блокове и примигващи холографски екрани. Дебели кабели се виеха по пода, свързвайки древни конзоли с енергийни източници, които отдавна не трябваше да работят — но по някакъв начин все още функционираха. Въздухът беше наситен с електрически заряд и слаба, остра миризма на горящи вериги.</p>
 
-<p>Kieran moved quickly to one of the central consoles, brushing away a layer of dust before activating it. The screen flickered to life, displaying lines of code and diagnostic readouts in a language that hadn’t been used in decades.</p>
+<p>Киърън се втурна към една от централните конзоли, избърсвайки слой прах, преди да я активира. Екранът примигна и оживя, показвайки редове код и диагностични данни на език, който не беше използван от десетилетия.</p>
 
-<p>“Can you do it?” Lira asked, peering over his shoulder.</p>
+<p>„Ще успееш ли?“ попита Лира, надничайки над рамото му.</p>
 
-<p>“I think so,” Kieran said, his fingers flying across the keyboard. “I just need to access the mainframe and send out a deactivation pulse. It should scramble the Servitor’s systems long enough for us to get away.”</p>
+<p>„Мисля, че да,“ отвърна Киърън, докато пръстите му летяха по клавиатурата. „Просто трябва да се свържа с основната мрежа и да изпратя деактивиращ импулс. Той трябва да обърка системите на Сървитора достатъчно, за да избягаме.“</p>
 
-<p>“And if it doesn’t?” Jak asked nervously.</p>
+<p>„А ако не стане?“ попита нервно Джак.</p>
 
-<p>Kieran didn’t answer. He didn’t need to.</p>
+<p>Киърън не отговори. Нямаше нужда.</p>
 
-<p>For several tense minutes, the only sound was the clatter of Kieran’s fingers on the keyboard. Lira paced near the door, her pistol at the ready, while Jak hovered nervously nearby.</p>
+<p>В продължение на няколко напрегнати минути, единственият звук в помещението беше тракането на клавишите. Лира крачеше до вратата, с пистолет в ръка, докато Джак нервно се навърташе наблизо.</p>
 
-<p>Finally, Kieran leaned back with a sigh of relief. “Got it. The pulse is ready to go. I just need to—”</p>
+<p>Накрая Киърън се облегна с облекчение. „Готово. Импулсът е зареден. Само трябва да—“</p>
 
-<p>A sudden, deafening crash cut him off as the door exploded inward, torn from its hinges by a massive, clawed hand.</p>
+<p>Внезапен, оглушителен трясък го прекъсна — вратата избухна навътре, изтръгната от пантите си от огромна ноктеста ръка.</p>
 
-<p>The Servitor stepped into the chamber, its red visor blazing like a demon’s eye. Sparks flickered along its damaged limbs, and its synthetic flesh hung in tatters, revealing the gleaming metal skeleton beneath.</p>
+<p>Сървитора влезе в залата, с визьора си, горящ като око на демон. Искри припламваха по повредените му крайници, а синтетичната му плът висеше на парцали, разкривайки блещукащ метален скелет отдолу.</p>
 
-<p>“RUN!” Lira shouted, firing off several shots as Kieran grabbed Jak and pulled him toward the back of the room.</p>
+<p>„БЯГАЙ!“ извика Лира, стреляйки, докато Киърън грабна Джак и го повлече към дъното на залата.</p>
 
-<p>The shots ricocheted harmlessly off the Servitor’s armored chassis. It let out a mechanical screech and lunged forward, its claws slicing through one of the server banks like it was made of paper.</p>
+<p>Изстрелите отскочиха без ефект от бронята на Сървитора. Той издаде механичен писък и се хвърли напред, ноктите му разкъсаха един от сървърните блокове като хартия.</p>
 
-<p>Kieran and Jak dove behind a console as Lira continued to fire, trying to draw the Servitor’s attention. But it was too fast. In the blink of an eye, it closed the distance between them, its clawed hand lashing out and knocking her weapon from her grasp.</p>
+<p>Киърън и Джак се хвърлиха зад конзола, докато Лира продължи да стреля, опитвайки се да го отвлече. Но той беше твърде бърз. За миг прекоси разстоянието, ноктестата му ръка изби оръжието от ръцете ѝ.</p>
 
-<p>Lira dodged the next attack, but she wasn’t quick enough to avoid the third. The Servitor’s claws raked across her side, sending her crashing into the wall with a gasp of pain.</p>
+<p>Лира избегна следващата атака, но не беше достатъчно бърза, за да избегне третата. Ноктите на Сървитора я пронизаха встрани, хвърляйки я към стената с вик на болка.</p>
 
-<p>“Lira!” Kieran shouted, his heart pounding in his chest.</p>
+<p>„Лира!“ извика Киърън, сърцето му блъскаше диво.</p>
 
-<p>The Servitor turned toward him, its head twitching as it scanned the room. Kieran could see the flickering glow of its damaged circuitry, and an idea began to form in his mind—a desperate, reckless idea.</p>
+<p>Сървитора се обърна към него, главата му потрепваше, докато сканираше залата. Киърън видя как искри трепкат в повредената му схема — и в съзнанието му се оформи отчаяна, безразсъдна идея.</p>
 
-<p>“Jak, listen to me,” he said urgently. “I need you to stay here and keep your head down. No matter what happens, don’t move.”</p>
+<p>„Джак, слушай внимателно,“ каза спешно. „Остани тук и не мърдай. Каквото и да се случи.“</p>
 
-<p>Jak’s eyes widened. “What are you going to do?”</p>
+<p>Очите на Джак се разшириха. „Какво ще направиш?“</p>
 
-<p>“I’m going to finish what I started.”</p>
+<p>„Ще довърша това, което започнах.“</p>
 
-<p>Before Jak could protest, Kieran stood up and sprinted toward the console at the center of the room. The Servitor let out another mechanical screech and charged after him, its claws tearing through the air inches from his back.</p>
+<p>Преди Джак да успее да протестира, Киърън се изправи и се втурна към централната конзола. Сървитора изрева и се втурна след него, ноктите му разсичаха въздуха на сантиметри от гърба му.</p>
 
-<p>Kieran reached the console and slammed his hand down on the activation switch. The pulse generator roared to life, sending out a shockwave of energy that rippled through the room.</p>
+<p>Киърън достигна конзолата и удари активиращия бутон. Генераторът на импулса заръмжа, изпращайки шокова вълна, която се разпространи в залата.</p>
 
-<p>The Servitor froze mid-stride, its limbs twitching violently as the pulse scrambled its systems. Sparks flew from its damaged circuitry, and its red visor flickered and dimmed.</p>
+<p>Сървитора замръзна в движение, крайниците му се разтърсиха неистово, докато импулсът объркваше системите му. Искри прехвърчаха от разкъсаните му схеми, а червеният визьор примигна и угасна.</p>
 
-<p>For a moment, Kieran thought it was over.</p>
+<p>За миг Киърън си помисли, че е свършило.</p>
 
-<p>Then the Servitor let out a low, guttural growl and took another step forward.</p>
+<p>Но Сървитора изръмжа глухо и направи още една крачка напред.</p>
 
-<p>“It’s not working!” Lira shouted, struggling to her feet.</p>
+<p>„Не действа!“ извика Лира, изправяйки се с усилие.</p>
 
-<p>Kieran’s mind raced. The pulse wasn’t strong enough to disable the Servitor completely—but maybe, just maybe, it could be amplified.</p>
+<p>Умът на Киърън работеше на пълни обороти. Импулсът не беше достатъчно силен — но може би, само може би, можеше да се усили.</p>
 
-<p>“Get to the power core!” he shouted to Lira. “We need to overload the system!”</p>
+<p>„Отиди до енергийното ядро!“ извика той към Лира. „Трябва да претоварим системата!“</p>
 
-<p>Lira nodded, grimacing in pain as she limped toward the back of the room. Jak followed, his small hands gripping the edges of Lira’s coat as they moved.</p>
+<p>Лира кимна, прехапвайки устна от болка, и закуцука към задната част на залата. Джак тръгна след нея, малките му ръце се вкопчиха в палтото ѝ.</p>
 
-<p>Kieran held his ground, buying them time as he continued to manipulate the console, pushing the pulse generator to its limits.</p>
+<p>Киърън остана на място, печелейки време, докато натискаше конзолата, изстисквайки максимума от генератора.</p>
 
-<p>The Servitor let out one final, earsplitting screech and lunged at him—but before it could strike, a blinding flash of light filled the room as the power core overloaded.</p>
+<p>Сървитора издаде последен, раздиращ писък и се хвърли към него — но преди да го достигне, заслепяваща светкавица изпълни помещението, когато ядрената система се претовари.</p>
 
-<p>The shockwave tore through the chamber, engulfing the Servitor in a storm of energy. Its body convulsed violently, and with one final, glitching roar, it collapsed to the ground in a heap of sparking metal.</p>
+<p>Взривната вълна заля залата, поглъщайки Сървитора в буря от енергия. Тялото му се разтресе неконтролируемо, и с последен, гърчещ се рев, се срина на земята в искряща купчина метал.</p>
 
-<p>Kieran slumped against the console, his chest heaving.</p>
+<p>Киърън се отпусна до конзолата, гърдите му се повдигаха тежко.</p>
 
-<p>“It’s… it’s over,” Jak whispered, his voice trembling.</p>
+<p>„Свърши се…“ прошепна Джак, гласът му трепереше.</p>
 
-<p>“For now,” Lira said, her expression grim. “But the Architect will send more.”</p>
+<p>„Засега,“ каза Лира с мрачно изражение. „Но Архитектът ще прати още.“</p>
 
-<p>Kieran nodded, staring down at the remains of the Servitor. They had won this battle—but the war was far from over. He met Lira’s gaze, and for the first time in a long while, he saw a flicker of hope.</p>
+<p>Киърън кимна, гледайки останките на Сървитора. Бяха спечелили тази битка — но войната едва започваше. Той срещна погледа на Лира и за първи път от много време насам видя проблясък на надежда.</p>
 
-<p>“We’ll be ready,” he said, determination hardening his voice. “Whatever comes next… we’ll face it together.”</p>
+<p>„Ще сме готови,“ каза решително. „Каквото и да дойде… ще го посрещнем заедно.“</p>
 
-<p>And in the ruins of the Boneways, beneath the decaying heart of Perdition Prime, the spark of rebellion was born.</p>
+<p>И в руините на Боунуейс, под разлагащото се сърце на Пердишън Прайм, искрата на бунта се роди.</p>
 `;
